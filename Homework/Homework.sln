@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_MathPow", "Project
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3_SumOfNumbers", "Project3_SumOfNumbers\Project3_SumOfNumbers.csproj", "{73DA6FB1-ADEB-4A6B-98C0-6A7014BCD7B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projcet4_Multiplication", "Projcet4_Multiplication\Projcet4_Multiplication.csproj", "{10A925CB-F411-4A1B-B853-EE3F9626E158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{73DA6FB1-ADEB-4A6B-98C0-6A7014BCD7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73DA6FB1-ADEB-4A6B-98C0-6A7014BCD7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73DA6FB1-ADEB-4A6B-98C0-6A7014BCD7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A925CB-F411-4A1B-B853-EE3F9626E158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A925CB-F411-4A1B-B853-EE3F9626E158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A925CB-F411-4A1B-B853-EE3F9626E158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A925CB-F411-4A1B-B853-EE3F9626E158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
