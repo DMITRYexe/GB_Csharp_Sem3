@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project1_CubesOfNumbers", "Project1_CubesOfNumbers\Project1_CubesOfNumbers.csproj", "{2393F2B6-FEDB-485B-8301-77B918A50FFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_MathPow", "Project2_MathPow\Project2_MathPow.csproj", "{F7661C98-B678-4B6C-BE19-F805649102B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2393F2B6-FEDB-485B-8301-77B918A50FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2393F2B6-FEDB-485B-8301-77B918A50FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2393F2B6-FEDB-485B-8301-77B918A50FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7661C98-B678-4B6C-BE19-F805649102B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7661C98-B678-4B6C-BE19-F805649102B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7661C98-B678-4B6C-BE19-F805649102B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7661C98-B678-4B6C-BE19-F805649102B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
