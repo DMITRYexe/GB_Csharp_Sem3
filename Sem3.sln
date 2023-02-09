@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_Methods", "Project
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_Void", "Project5_Void\Project5_Void.csproj", "{257B6EFA-A273-4321-9CBF-8961CB2DD408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6_EuclideanAlgorithm", "Euclidean Algorithm\Project6_EuclideanAlgorithm.csproj", "{3544AFF3-DA2C-4437-B97F-00AA0269E605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{257B6EFA-A273-4321-9CBF-8961CB2DD408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257B6EFA-A273-4321-9CBF-8961CB2DD408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257B6EFA-A273-4321-9CBF-8961CB2DD408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3544AFF3-DA2C-4437-B97F-00AA0269E605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3544AFF3-DA2C-4437-B97F-00AA0269E605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3544AFF3-DA2C-4437-B97F-00AA0269E605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3544AFF3-DA2C-4437-B97F-00AA0269E605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

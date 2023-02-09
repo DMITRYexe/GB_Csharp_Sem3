@@ -4,4 +4,4 @@ void Pause()
    Console.ReadKey();
 }
 
-Pause();
+Pause(); // вызов метода
