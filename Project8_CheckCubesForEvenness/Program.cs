@@ -12,7 +12,7 @@ bool Test (int n)
    }
 }
 
-Random random=new Random();
+Random random=new Random(); // Random - это тип данных
 for(int i = 0; i<10; i++)
 {
    int a=random.Next(1,100);
