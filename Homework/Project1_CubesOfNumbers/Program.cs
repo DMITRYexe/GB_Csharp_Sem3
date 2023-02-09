@@ -1,10 +1,10 @@
 ﻿//31. Вывести на экран кубы чисел от 1 до N
 Console.WriteLine("Привет! Данная программа выводит кубы чисел от 1 до N");
-Console.WriteLine("Введите N");
+Console.WriteLine("Введите N, где N целое число");
 
 int number = Convert.ToInt32(Console.ReadLine());
 int i = 1, cube = 0;
-
+Console.WriteLine("Резульат: ");
 if (CheckForPositivity(number))
    {
      while (i < number)
