@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Вывести каждую букву из слова: 
+string s = "hello";
+foreach(char c in s)
+{
+   Console.WriteLine(c);
+}
