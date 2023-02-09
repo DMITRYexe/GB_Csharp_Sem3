@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6_EuclideanAlgorithm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_DigitsCounter", "Project7_DigitsCounter\Project7_DigitsCounter.csproj", "{F2499684-6C41-4C41-AC0C-29651F578446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_CheckCubesForEvenness", "Project8_CheckCubesForEvenness\Project8_CheckCubesForEvenness.csproj", "{21A32A7D-1EAB-43F2-A4C5-1648DCEBCDDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F2499684-6C41-4C41-AC0C-29651F578446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2499684-6C41-4C41-AC0C-29651F578446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2499684-6C41-4C41-AC0C-29651F578446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A32A7D-1EAB-43F2-A4C5-1648DCEBCDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A32A7D-1EAB-43F2-A4C5-1648DCEBCDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A32A7D-1EAB-43F2-A4C5-1648DCEBCDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A32A7D-1EAB-43F2-A4C5-1648DCEBCDDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
